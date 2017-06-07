@@ -1,0 +1,32 @@
+/*#logo
+{
+    border:     1px solid blue;
+    width:      213px;
+    height:     70px;
+    background: url(img/logo.gif) no-repeat;
+}
+
+#texto
+{
+    font-family: arial;
+    font-weight: bold;
+}*/
+
+/*.page{width: 595px; height: 842px;}
+.frame{float: left;}
+.frame li{list-style: none;}
+.tabela{float: left;}
+.titulo{font-size: 24px; font-weight: bolder;}
+page-break-after: always;
+.left{margin-left: 10px;}
+.titulo{ font-size: 24px;}
+.desc{}
+input {width: 197px;}
+.removerCampo{background: url(img/minus.png) no-repeat;}
+.adicionarCampo{background: url(img/plus.png) no-repeat;}*/
+
+table{width:  100%;border: #999;}
+th{text-align: center;}
+td{text-align: left;}
+td.col1{text-align: left;}
+td.titulo{font-size: 24px;}
